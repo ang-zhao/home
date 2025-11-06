@@ -1,8 +1,11 @@
 ---
 title: "Work Experience"
+editor: source
 ---
 
-\comment{TODO: make personal projects tab}
+\comment{TODO: make personal projects tab.
+Caffo: Firehouse, EP test
+Crainiceanu: cardiac surgery, fcox testing, mpog drug, digital twin}
 
 ## Research Positions
 
@@ -54,6 +57,8 @@ title: "Work Experience"
 
 **Johns Hopkins University**
 
+Teaching Assistant \| Advanced Data Science I & II, ∼10 students \| 2025
+
 Teaching Assistant \| Statistical Programming Paradigms and Workflows, ∼45 students \| 2023
 
 Teaching Assistant \| Statistical Methods in Public Health II, ∼300 students \| 2023
@@ -91,3 +96,7 @@ Biostatistics Students Organization \| *Curriculum Committee Representative* \| 
 *VP Events* \| McGill Integrative Biosciences Society \| 2020-2021
 
 \comment{## Miscellaneous Positions}
+
+}
+
+}
