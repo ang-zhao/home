@@ -50,11 +50,11 @@ Her hobbies include bouldering, investing, stand-up comedy, and playing classica
 :::
 
 ```{=html}
-<object data="resume_AngelaZhao_Jun1_2025.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+<object data="resume_AngelaZhao_citadel_feb2026.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
     <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="resume_AngelaZhao_Jun1_2025.pdf">click here to
+    No biggie... you can <a href="resume_AngelaZhao_citadel_feb2026.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
 
-*Last updated: June 1, 2025*
+*Last updated: Feb 1, 2026*
