@@ -5,6 +5,7 @@ project:
   
 website:
   title: "Angela Zhao"
+  site-url: "https://ang-zhao.github.io/home/"
   navbar:
     collapse-below: xl
     collapse: true 
@@ -25,7 +26,7 @@ website:
         
 format:
   html:
-    theme: lux ## minty also good
+    theme: lux 
     linkcolor: MediumAquaMarine
     css: styles.css
     toc: true
