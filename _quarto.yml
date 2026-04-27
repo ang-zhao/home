@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-  resources: resume_AngelaZhao_Jun1_2025.pdf
+  resources: resume_AngelaZhao_citadel_feb2026.pdf
   
 website:
   title: "Angela Zhao"
