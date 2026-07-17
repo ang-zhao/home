@@ -7,7 +7,7 @@ title: "Education and Awards"
 [**JOHNS HOPKINS UNIVERSITY**]{.underline}\
 PhD in Biostatistics (2028 Expected)
 
-Certificate in Health Finance and Management (2025 Expected)
+Certificate in Health Finance and Management (2026 Expected)
 
 ScM in Biostatistics (2024)
 
@@ -22,7 +22,7 @@ BS in Joint Honours Computer Science and Biology, Minor in Mathematics (2022)\
 
 **Languages:** Python, R, Java, C, Bash, SAS
 
-**Software/Packages:** PyTorch/Tensorflow, Git/GitHub, dashboarding/data visualization, image processing, Factset, yfinance, LM Studio
+**Software/Packages:** PyTorch/Tensorflow, Git/GitHub, dashboarding/data visualization, image processing, Factset, yfinance, LM Studio, Bloomberg Terminal
 
 **Cloud/Databases:** AWS, cluster computing, SQL, REDCap, large Biobank/EHR data processing
 

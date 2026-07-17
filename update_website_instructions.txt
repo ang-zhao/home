@@ -4,3 +4,6 @@ Qmd files automatically render to /docs folder. Only the rendered documents will
 > git add docs
 > git commit -m "message"
 > git push
+
+Or just do
+> quarto publish gh-pages
