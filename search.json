@@ -28,62 +28,6 @@
     "text": "Awards\nJoseph Zeger Travel Award, Johns Hopkins University (2025)\nGertrude M. Cox Scholarship, American Statistics Association (Honorable Mention, JSM 2024)\nMaster’s Tuition Scholarship, Johns Hopkins University (2023)\nDean’s Multidisciplinary Undegraduate Research List, McGill (2022)\nDean’s Honour List, McGill (2019-2022)\nWing Hing Chan Scholarship in Science, McGill (2021)\nUndergraduate Science Research Award (2021) From the Natural Sciences and Engineering Research Council of Canada (NSERC), $7500\nTomlinson Engagement Award for Mentoring, McGill (2020-2021)\nJ W McConnell Scholarship, McGill (2018)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Angela Zhao",
-    "section": "",
-    "text": "Angela is a PhD student in Biostatistics at Johns Hopkins University. Her research interests are mainly in methods of analyzing time-series data, including stochastic modeling, neural networks, and functional data analysis. Domain-specific interests include wearable device, imaging, and financial data.\nMore recently, she was awarded an honorable mention for the Gertrude M. Cox Scholarship by the American Statistics Association at JSM 2024. She presented her work Inference for the Extended Functional Cox Model: A UK Biobank Case Study at the ENAR 2025 conference and will present Data-Driven Risk Prediction of Alzheimer’s Disease Using Device-Measured Physical Activity and Robust Variable Selection in an invited session at JSM 2025. Currently, she serves on the Doctoral Student Council as the Biostatistics Representative.\nHer hobbies include bouldering, investing, stand-up comedy, and playing classical music (fun fact: she previously taught piano for 4 years)."
-  },
-  {
-    "objectID": "index.html#quick-links",
-    "href": "index.html#quick-links",
-    "title": "Angela Zhao",
-    "section": "Quick links",
-    "text": "Quick links\n\n Google Scholar\n GitHub\n LinkedIn\n Adaptive Trading Dashboard\n\n\n    It appears you don't have a PDF plugin for this browser.\n    No biggie... you can click here to\n    download the PDF file.\n\nLast updated: Feb 1, 2026"
-  },
-  {
-    "objectID": "work.html",
-    "href": "work.html",
-    "title": "Work Experience",
-    "section": "",
-    "text": "Currently working on a tool to forecast call volume in collaboration with the Owings Mills Volunteer Firehouse to address staffing demands.\nEmerald Advisors, LLC | Life Sciences Research Analyst Intern | May 2024 - Aug. 2024\n\nAssisted senior analysts in covering 20+ biotech/therapeutics companies at a long-only firm managing ∼$5B of AUM.\nEvaluated scientific literature, clinical trial data, and business filings as part of the due diligence process for new ideas.\nContributed to the BUY decision on a stock that went up 50+% and made a positive 8bps impact to the portfolio.\nConducted due diligence for an IPO, including constructing comps tables and reviewing SEC-1 filings.\n\nJohns Hopkins University, Wearable and Implantable Technology Group | Research Associate for Dr. Ciprian Crainiceanu | Sep. 2022 - Present\n\nHelped develop inference procedures for functional cox models that consider the inherent correlation of timeseries data.\nDemonstrated that wearable device metrics improve the performance of traditional survival models by up to 10%.\nProduced robust R pipelines for analyzing high-dimensional data on a cluster computer (N = 500, 000, p &gt; 1000).\nThis work resulted in 1 peer-reviewed paper Springer Journal of Neurology and 3 papers under revision.\n\nJohns Hopkins University, Department of Biostatistics | Research Assistant for Dr. Brian Caffo | Jul. 2023 - May 2024\n\nComprehensively compared stochastic timeseries models to capture the complex dynamics of real/simulated fMRI data.\nLeveraged the Pytorch, Tensorflow, and Keras libraries in Python to tune and test RNNs, transformers, and AR models.\nProposed that the potency of transformers suggest a form of neural context that challenges standard fMRI assumptions.\nThis work resulted in 1 peer-reviewed review article in Annual Reviews of Statistics and 1 paper under revision.\n\nMcGill University, Quantitative Life Sciences | Research Assistant for Dr. Jackie Vogel | Jan. 2020 - Aug. 2022 - Developed shape analysis pipelines in Java and Python to identify droplet-like behaviours in proteins from video data.\n\nLeveraged ML for artifact removal and signal processing; weighted-mean/Gaussian approaches for subpixel positioning.\nContributed to single-cell analysis software for super-resolution image data that lead to 8+ talks, posters, and abstracts."
-  },
-  {
-    "objectID": "work.html#research-positions",
-    "href": "work.html#research-positions",
-    "title": "Work Experience",
-    "section": "",
-    "text": "Currently working on a tool to forecast call volume in collaboration with the Owings Mills Volunteer Firehouse to address staffing demands.\nEmerald Advisors, LLC | Life Sciences Research Analyst Intern | May 2024 - Aug. 2024\n\nAssisted senior analysts in covering 20+ biotech/therapeutics companies at a long-only firm managing ∼$5B of AUM.\nEvaluated scientific literature, clinical trial data, and business filings as part of the due diligence process for new ideas.\nContributed to the BUY decision on a stock that went up 50+% and made a positive 8bps impact to the portfolio.\nConducted due diligence for an IPO, including constructing comps tables and reviewing SEC-1 filings.\n\nJohns Hopkins University, Wearable and Implantable Technology Group | Research Associate for Dr. Ciprian Crainiceanu | Sep. 2022 - Present\n\nHelped develop inference procedures for functional cox models that consider the inherent correlation of timeseries data.\nDemonstrated that wearable device metrics improve the performance of traditional survival models by up to 10%.\nProduced robust R pipelines for analyzing high-dimensional data on a cluster computer (N = 500, 000, p &gt; 1000).\nThis work resulted in 1 peer-reviewed paper Springer Journal of Neurology and 3 papers under revision.\n\nJohns Hopkins University, Department of Biostatistics | Research Assistant for Dr. Brian Caffo | Jul. 2023 - May 2024\n\nComprehensively compared stochastic timeseries models to capture the complex dynamics of real/simulated fMRI data.\nLeveraged the Pytorch, Tensorflow, and Keras libraries in Python to tune and test RNNs, transformers, and AR models.\nProposed that the potency of transformers suggest a form of neural context that challenges standard fMRI assumptions.\nThis work resulted in 1 peer-reviewed review article in Annual Reviews of Statistics and 1 paper under revision.\n\nMcGill University, Quantitative Life Sciences | Research Assistant for Dr. Jackie Vogel | Jan. 2020 - Aug. 2022 - Developed shape analysis pipelines in Java and Python to identify droplet-like behaviours in proteins from video data.\n\nLeveraged ML for artifact removal and signal processing; weighted-mean/Gaussian approaches for subpixel positioning.\nContributed to single-cell analysis software for super-resolution image data that lead to 8+ talks, posters, and abstracts."
-  },
-  {
-    "objectID": "work.html#editorial-activities-peer-reviewer",
-    "href": "work.html#editorial-activities-peer-reviewer",
-    "title": "Work Experience",
-    "section": "Editorial Activities – Peer Reviewer",
-    "text": "Editorial Activities – Peer Reviewer\nJournal of Neurology (1)\nBiostatistics and Epidemiology (2)"
-  },
-  {
-    "objectID": "work.html#teaching-positions",
-    "href": "work.html#teaching-positions",
-    "title": "Work Experience",
-    "section": "Teaching Positions",
-    "text": "Teaching Positions\nJohns Hopkins University\nTeaching Assistant | Advanced Data Science I & II, ∼10 students | 2025\nTeaching Assistant | Statistical Programming Paradigms and Workflows, ∼45 students | 2023\nTeaching Assistant | Statistical Methods in Public Health II, ∼300 students | 2023\nTeaching Assistant | Statistical Machine Learning, ∼50 students | 2023\nMcGill University\nUndergraduate Tutor | Subjects: Discrete Maths, Algorithms and Data Structures, Organic Chemistry I, and more. | ∼10 students | 2020-2022\nTeaching Assistant | Data Science, ∼200 students | 2021\nTEAM Mentor | Physics - Electromagnetism | Tutorials and Office Hours ~200 students | 2021\nTEAM Mentor | General Chemistry 1 | Tutorials and Office Hours ~200 students | 2020\nGrader | Introduction to Biophysics, ∼150 students | 2020"
-  },
-  {
-    "objectID": "work.html#leadership-positions",
-    "href": "work.html#leadership-positions",
-    "title": "Work Experience",
-    "section": "Leadership Positions",
-    "text": "Leadership Positions\nJohns Hopkins University\nDoctoral Student Council | Biostatistics Representative | 2025-2026\nDepartment of Biostatistics | ScM Student-Faculty Representative | 2023-2024\nBiostatistics Students Organization | Curriculum Committee Representative | 2023-2024\nCEPH Site Visit Student Representative | For reaccreditation from the Council on Education for Public Health | 2023\nMcGill University\nPresident | McGill Integrative Biosciences Society | 2021-2022\nVP Events | McGill Integrative Biosciences Society | 2020-2021\n}\n}\n}"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Personal Projects",
-    "section": "",
-    "text": "Adaptive"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
@@ -110,5 +54,96 @@
     "title": "Publications",
     "section": "Posters and Abstracts",
     "text": "Posters and Abstracts\n\nMorelli K, Meier SM, Zhao A, Willis M, Barral Y, Vogel J, (2023). Interrogating the material properties of a microtubule (+) end-associated nanoscale condensate in living cells using super-resolution microscopy, American Society for Cell Biology Cell Bio Virtual.\nSim S, Zhao A, Vogel J (2023). Phosphoregulation of y-tubulin regulates anti-parallel microtubule bundling through kinesin-5, 8th Meeting of the International Union of Microbeam Analysis Societies.\nSim S, Zhao A, Vogel J (2023). y-Tubulin phosphoregulation controls interpolar microtubule organization through kinesin-5, Mitotic spindle: From living and synthetic systems to theory.\nSim S, Morelli K, Zhao A, Vogel J (2022). How does y-tubulin phosphoregulation control microtubule identity during spindle assembly?, 4th Annual CRBS Symposium, Montréal, Canada.\nSim S, Morelli K, Zhao A, Vogel J (2021). Phosphoregulation of y-Tubulin Directs Spindle Assembly Through Kinesin-5 and Microtubule Number, American Society for Cell Biology Cell Bio Virtual."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research & Projects",
+    "section": "",
+    "text": "Selected research and applied projects around stochastic modeling, machine learning, survival analysis, and decision-oriented time-series data. Figure slots use fixed filenames under assets/figures/ so real exported paper or project graphics can replace the placeholders without changing the page layout."
+  },
+  {
+    "objectID": "projects.html#research",
+    "href": "projects.html#research",
+    "title": "Research & Projects",
+    "section": "Research",
+    "text": "Research\n\n\nWearable activity and neurodegenerative disease risk\n\nFirst-author work using wrist-worn accelerometry from the UK Biobank to predict incident Alzheimer’s disease and Parkinson’s disease. The modeling thread connects wearable sensor summaries, survival outcomes, variable selection, and risk prediction.\nFigure target: assets/figures/wearable-risk-summary.png\nPublications\n\n\nFunctional Cox modeling for sensor/time-to-event data\n\nInference procedures for extended functional Cox models that account for correlation in time-series covariates. This project is the closest bridge between statistical theory, sensor data, and time-to-event prediction.\nFigure target: assets/figures/functional-cox-inference.png\nPublications\n\n\nStochastic and neural models for fMRI dynamics\n\nComparison of stochastic time-series models, RNNs, transformers, and autoregressive baselines for encoding and decoding fMRI dynamics. The project emphasizes model comparison under realistic temporal dependence.\nFigure target: assets/figures/fmri-model-comparison.png\nWork"
+  },
+  {
+    "objectID": "projects.html#applied-projects",
+    "href": "projects.html#applied-projects",
+    "title": "Research & Projects",
+    "section": "Applied Projects",
+    "text": "Applied Projects\n\n\nAdaptive Trading Dashboard\n\nStreamlit simulation dashboard for stress-testing CUSUM changepoint detectors, GARCH pre-whitening, rolling resets, and false-alarm trade-offs under Monte Carlo scenarios.\nFigure target: assets/figures/adaptive-trading-dashboard.png\nOpen dashboard\n\n\nFirehouse call volume forecasting\n\nApplied forecasting project with the Owings Mills Volunteer Firehouse to estimate call volume probabilities and support staffing decisions. The project is a practical example of operational prediction under uncertainty.\nFigure target: assets/figures/firehouse-call-forecast.png\n\n\nGeometry-aware evolutionary LLMs\n\nExploratory project investigating genetic algorithms that use LLMs as mutation operators for non-differentiable optimization tasks.\nFigure target: assets/figures/evolutionary-llm-optimization.png"
+  },
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Work Experience",
+    "section": "",
+    "text": "British Columbia Investment Management Corporation | Quant Equity Intern | May 2026 - Aug. 2026\n\nCurrent internship in quantitative equity research.\nPublic details intentionally kept brief while the role is active.\n\nEmerald Advisors, LLC | Life Sciences Research Analyst Intern | May 2024 - Aug. 2024\n\nAssisted senior analysts in covering 20+ biotech/therapeutics companies at a long-only firm managing ∼$5B of AUM.\nEvaluated scientific literature, clinical trial data, and business filings as part of the due diligence process for new ideas.\nContributed to the BUY decision on a stock that went up 50+% and made a positive 8bps impact to the portfolio.\nConducted due diligence for an IPO, including constructing comps tables and reviewing SEC-1 filings."
+  },
+  {
+    "objectID": "work.html#quant-finance",
+    "href": "work.html#quant-finance",
+    "title": "Work Experience",
+    "section": "",
+    "text": "British Columbia Investment Management Corporation | Quant Equity Intern | May 2026 - Aug. 2026\n\nCurrent internship in quantitative equity research.\nPublic details intentionally kept brief while the role is active.\n\nEmerald Advisors, LLC | Life Sciences Research Analyst Intern | May 2024 - Aug. 2024\n\nAssisted senior analysts in covering 20+ biotech/therapeutics companies at a long-only firm managing ∼$5B of AUM.\nEvaluated scientific literature, clinical trial data, and business filings as part of the due diligence process for new ideas.\nContributed to the BUY decision on a stock that went up 50+% and made a positive 8bps impact to the portfolio.\nConducted due diligence for an IPO, including constructing comps tables and reviewing SEC-1 filings."
+  },
+  {
+    "objectID": "work.html#research",
+    "href": "work.html#research",
+    "title": "Work Experience",
+    "section": "Research",
+    "text": "Research\nJohns Hopkins University, Wearable and Implantable Technology Group | Research Associate for Dr. Ciprian Crainiceanu | Sep. 2022 - Present\n\nHelped develop inference procedures for functional cox models that consider the inherent correlation of timeseries data.\nDemonstrated that wearable device metrics improve the performance of traditional survival models by up to 10%.\nProduced robust R pipelines for analyzing high-dimensional data on a cluster computer (N = 500, 000, p &gt; 1000).\nThis work resulted in 1 peer-reviewed paper Springer Journal of Neurology and 3 papers under revision.\n\nJohns Hopkins University, Department of Biostatistics | Research Assistant for Dr. Brian Caffo | Jul. 2023 - May 2024\n\nComprehensively compared stochastic timeseries models to capture the complex dynamics of real/simulated fMRI data.\nLeveraged the Pytorch, Tensorflow, and Keras libraries in Python to tune and test RNNs, transformers, and AR models.\nProposed that the potency of transformers suggest a form of neural context that challenges standard fMRI assumptions.\nThis work resulted in 1 peer-reviewed review article in Annual Reviews of Statistics and 1 paper under revision.\n\nMcGill University, Quantitative Life Sciences | Research Assistant for Dr. Jackie Vogel | Jan. 2020 - Aug. 2022 - Developed shape analysis pipelines in Java and Python to identify droplet-like behaviours in proteins from video data.\n\nLeveraged ML for artifact removal and signal processing; weighted-mean/Gaussian approaches for subpixel positioning.\nContributed to single-cell analysis software for super-resolution image data that lead to 8+ talks, posters, and abstracts."
+  },
+  {
+    "objectID": "work.html#teaching",
+    "href": "work.html#teaching",
+    "title": "Work Experience",
+    "section": "Teaching",
+    "text": "Teaching\nJohns Hopkins University\nTeaching Assistant | Advanced Data Science I & II, ∼10 students | 2025\nTeaching Assistant | Statistical Programming Paradigms and Workflows, ∼45 students | 2023\nTeaching Assistant | Statistical Methods in Public Health II, ∼300 students | 2023\nTeaching Assistant | Statistical Machine Learning, ∼50 students | 2023\nMcGill University\nUndergraduate Tutor | Subjects: Discrete Maths, Algorithms and Data Structures, Organic Chemistry I, and more. | ∼10 students | 2020-2022\nTeaching Assistant | Data Science, ∼200 students | 2021\nTEAM Mentor | Physics - Electromagnetism | Tutorials and Office Hours ~200 students | 2021\nTEAM Mentor | General Chemistry 1 | Tutorials and Office Hours ~200 students | 2020\nGrader | Introduction to Biophysics, ∼150 students | 2020"
+  },
+  {
+    "objectID": "work.html#leadership-service",
+    "href": "work.html#leadership-service",
+    "title": "Work Experience",
+    "section": "Leadership / Service",
+    "text": "Leadership / Service\nPeer reviewer\nJournal of Neurology (1)\nBiostatistics and Epidemiology (2)\nJohns Hopkins University\nDoctoral Student Council | Biostatistics Representative | 2025-2026\nDepartment of Biostatistics | ScM Student-Faculty Representative | 2023-2024\nBiostatistics Students Organization | Curriculum Committee Representative | 2023-2024\nCEPH Site Visit Student Representative | For reaccreditation from the Council on Education for Public Health | 2023\nMcGill University\nPresident | McGill Integrative Biosciences Society | 2021-2022\nVP Events | McGill Integrative Biosciences Society | 2020-2021"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Angela Zhao",
+    "section": "",
+    "text": "Angela Zhao is a PhD student in Biostatistics at Johns Hopkins University working at the intersection of stochastic modeling, machine learning, and high-dimensional time-series data. She is currently a Quant Equity Intern at British Columbia Investment Management Corporation (May-Aug. 2026).\nHer research and applied work focus on irregular, noisy streams: wearable sensor data, fMRI, survival outcomes, market data, and operational forecasts. She is especially interested in methods that stay useful when sampling is messy, outcomes are delayed, and predictions need calibrated uncertainty."
+  },
+  {
+    "objectID": "index.html#quick-links",
+    "href": "index.html#quick-links",
+    "title": "Angela Zhao",
+    "section": "Quick links",
+    "text": "Quick links\n\n Resume\n Research & Projects\n Updates\n Google Scholar\n GitHub\n LinkedIn\n Adaptive Trading Dashboard"
+  },
+  {
+    "objectID": "index.html#current-focus",
+    "href": "index.html#current-focus",
+    "title": "Angela Zhao",
+    "section": "Current focus",
+    "text": "Current focus\n\n\nQuantitative modeling. Current Quant Equity Intern at British Columbia Investment Management Corporation, with prior public-equity research experience at Emerald Advisors.\n\n\nTime-series research. Stochastic models, neural networks, and functional data methods for sensor, imaging, and other irregular data streams.\n\n\nScalable pipelines. Python and R workflows for large biobank, imaging, and finance-adjacent datasets, including HPC and dashboarding."
+  },
+  {
+    "objectID": "index.html#latest-updates",
+    "href": "index.html#latest-updates",
+    "title": "Angela Zhao",
+    "section": "Latest updates",
+    "text": "Latest updates\n\n\n\nMay-Aug. 2026\n\n\nRole Quant Equity Intern, British Columbia Investment Management Corporation. Current internship in quantitative equity research.\n\n\n\n\n2026\n\n\nPaper Co-authored work on low cardiac index, arterial hypotension, and acute kidney injury risk in cardiac surgery, published in British Journal of Anaesthesia.\n\n\n\n\nAug. 2025\n\n\nTalk Presented invited-session work at JSM 2025 on Alzheimer’s disease risk prediction from device-measured physical activity.\n\n\n\n\nMar. 2025\n\n\nTalk Presented functional Cox model inference work at ENAR 2025.\n\n\n\nView all updates\nLast updated: July 2026"
+  },
+  {
+    "objectID": "updates.html",
+    "href": "updates.html",
+    "title": "Updates",
+    "section": "",
+    "text": "A reverse-chronological archive of roles, papers, talks, projects, and awards. This page is meant to make recent and past milestones easier to scan than a full CV.\n\n\n\n\nMay-Aug. 2026\n\n\nRole Quant Equity Intern, British Columbia Investment Management Corporation. Current internship in quantitative equity research.\n\n\n\n\n2026\n\n\nPaper Co-authored “Low cardiac index during periods of arterial hypotension and risk of acute kidney injury in cardiac surgery,” published in British Journal of Anaesthesia.\n\n\n\n\nAug. 2025\n\n\nTalk Presented invited-session work at JSM 2025 on data-driven Alzheimer’s disease risk prediction using device-measured physical activity and robust variable selection.\n\n\n\n\nMar. 2025\n\n\nTalk Presented “Inference for the Extended Functional Cox Model: A UK Biobank Case Study” at ENAR 2025.\n\n\n\n\n2024\n\n\nPaper First-author paper on wrist-worn accelerometer measures and incident Alzheimer’s disease published in The Journals of Gerontology: Series A.\n\n\n\n\nMay-Aug. 2024\n\n\nRole Life Sciences Research Analyst Intern at Emerald Advisors, supporting due diligence across biotech and therapeutics companies.\n\n\n\n\n2024\n\n\nAward Honorable mention for the Gertrude M. Cox Scholarship from the American Statistical Association.\n\n\n\n\n2023\n\n\nPaper First-author paper on objective physical activity measures for incident Parkinson’s disease prediction published in Journal of Neurology.\n\n\n\n\nSep. 2022\n\n\nRole Started doctoral research in Biostatistics at Johns Hopkins University."
   }
 ]
