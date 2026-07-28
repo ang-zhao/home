@@ -1,0 +1,91 @@
+---
+title: "Updates"
+editor: source
+---
+
+::: {.page-intro}
+A reverse-chronological archive of roles, papers, talks, projects, and awards. This page is meant to make recent and past milestones easier to scan than a full CV.
+:::
+
+::: {.timeline}
+::: {.timeline-item}
+::: {.timeline-date}
+May-Aug. 2026
+:::
+::: {.timeline-body}
+<span class="update-badge role">Role</span> **Quant Equity Intern, British Columbia Investment Management Corporation.** Current internship in quantitative equity research.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+2026
+:::
+::: {.timeline-body}
+<span class="update-badge paper">Paper</span> Co-authored "Low cardiac index during periods of arterial hypotension and risk of acute kidney injury in cardiac surgery," published in *British Journal of Anaesthesia*.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+Aug. 2025
+:::
+::: {.timeline-body}
+<span class="update-badge talk">Talk</span> Presented invited-session work at JSM 2025 on data-driven Alzheimer's disease risk prediction using device-measured physical activity and robust variable selection.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+Mar. 2025
+:::
+::: {.timeline-body}
+<span class="update-badge talk">Talk</span> Presented "Inference for the Extended Functional Cox Model: A UK Biobank Case Study" at ENAR 2025.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+2024
+:::
+::: {.timeline-body}
+<span class="update-badge paper">Paper</span> First-author paper on wrist-worn accelerometer measures and incident Alzheimer's disease published in *The Journals of Gerontology: Series A*.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+May-Aug. 2024
+:::
+::: {.timeline-body}
+<span class="update-badge role">Role</span> Life Sciences Research Analyst Intern at Emerald Advisors, supporting due diligence across biotech and therapeutics companies.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+2024
+:::
+::: {.timeline-body}
+<span class="update-badge award">Award</span> Honorable mention for the Gertrude M. Cox Scholarship from the American Statistical Association.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+2023
+:::
+::: {.timeline-body}
+<span class="update-badge paper">Paper</span> First-author paper on objective physical activity measures for incident Parkinson's disease prediction published in *Journal of Neurology*.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+Sep. 2022
+:::
+::: {.timeline-body}
+<span class="update-badge role">Role</span> Started doctoral research in Biostatistics at Johns Hopkins University.
+:::
+:::
+:::

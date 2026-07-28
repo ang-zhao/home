@@ -1,60 +1,91 @@
 ---
 title: "Angela Zhao"
 image: profile_final.png
-text-align: justify
 about:
   template: jolla
   image-shape: round
 ---
 
-<!-- <section id="hero" class="hero d-flex align-items-center text-center"> -->
+::: {.landing-copy}
+Angela Zhao is a PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) at Johns Hopkins University working at the intersection of stochastic modeling, machine learning, and high-dimensional time-series data. She is currently a Quant Equity Intern at British Columbia Investment Management Corporation (May-Aug. 2026).
 
-<!-- <div class="container"> -->
-
-<!--   <h1 class="display-4 fw-bold">PhD Student in Biostatistics</h1> -->
-
-<!--   <p class="lead"> -->
-
-<!--     Time-series modelling · Functional data analysis · Python / R / Java · TensorFlow -->
-
-<!--   </p> -->
-
-<!--   <a class="btn btn-primary btn-lg" -->
-
-<!--      href="resume_AngelaZhao_Jun1_2025.pdf" -->
-
-<!--   >Download Résumé</a> -->
-
-<!-- </div> -->
-
-<!-- </section> -->
-
-::: {style="text-align: justify"}
-Angela is a PhD student in [Biostatistics](https://publichealth.jhu.edu/departments/biostatistics) at Johns Hopkins University. Her research interests are mainly in methods of analyzing time-series data, including stochastic modeling, neural networks, and functional data analysis. Domain-specific interests include wearable device, imaging, and financial data.
-
-More recently, she was awarded an honorable mention for the [Gertrude M. Cox Scholarship](https://ang-zhao.github.io/angzhao.github.io/education.html#awards) by the [American Statistics Association](https://www.amstat.org/) at [JSM 2024](https://ww2.amstat.org/meetings/jsm/2024/). She presented her work [Inference for the Extended Functional Cox Model: A UK Biobank Case Study](publications.qmd) at the [ENAR 2025](https://www.enar.org/meetings/spring2025/) conference and will present [Data-Driven Risk Prediction of Alzheimer’s Disease Using Device-Measured Physical Activity and Robust Variable Selection](publications.qmd) in an invited session at [JSM 2025](https://ww2.amstat.org/meetings/jsm/2025/). Currently, she serves on the [Doctoral Student Council](https://ang-zhao.github.io/angzhao.github.io/work.html#leadership-positions) as the Biostatistics Representative.
-
-Her hobbies include bouldering, investing, stand-up comedy, and playing classical music (fun fact: she previously taught piano for 4 years).
+Her research and applied work focus on irregular, noisy streams: wearable sensor data, fMRI, survival outcomes, market data, and operational forecasts. She is especially interested in methods that stay useful when sampling is messy, outcomes are delayed, and predictions need calibrated uncertainty.
 :::
 
 ## Quick links {.mt-4}
 
-::: {.d-flex .flex-wrap .gap-3}
+::: {.quick-link-row}
+[<i class="bi bi-file-earmark-text"></i> Resume](Angela_Zhao_Resume.pdf){.btn .btn-dark}
+
+[<i class="bi bi-graph-up"></i> Research & Projects](projects.qmd){.btn .btn-outline-primary}
+
+[<i class="bi bi-calendar-event"></i> Updates](updates.qmd){.btn .btn-outline-primary}
+
 [<i class="bi bi-journal-text"></i> Google Scholar](https://scholar.google.com/citations?hl=en&user=Vc9Pn4YAAAAJ){.btn .btn-outline-secondary}
 
-[<i class="bi bi-github"></i> GitHub](https://github.com/ang-zhao?tab=repositories){.btn .btn-dark}
+[<i class="bi bi-github"></i> GitHub](https://github.com/ang-zhao?tab=repositories){.btn .btn-outline-dark}
 
 [<i class="bi bi-linkedin"></i> LinkedIn](https://www.linkedin.com/in/angela0zhao/){.btn .btn-outline-primary}
 
 [<i class="bi bi-bar-chart-line"></i> Adaptive Trading Dashboard](https://adaptive-trading.streamlit.app/){.btn .btn-outline-primary}
 :::
 
-```{=html}
-<object data="resume_AngelaZhao_citadel_feb2026.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
-    <p>It appears you don't have a PDF plugin for this browser.
-    No biggie... you can <a href="resume_AngelaZhao_citadel_feb2026.pdf">click here to
-    download the PDF file.</a></p>
-</object>
-```
+## Current focus {.section-tight}
 
-*Last updated: Feb 1, 2026*
+::: {.focus-grid}
+::: {.focus-card}
+**Quantitative modeling.** Current Quant Equity Intern at British Columbia Investment Management Corporation, with prior public-equity research experience at Emerald Advisors.
+:::
+
+::: {.focus-card}
+**Time-series research.** Stochastic models, neural networks, and functional data methods for sensor, imaging, and other irregular data streams.
+:::
+
+::: {.focus-card}
+**Scalable pipelines.** Python and R workflows for large biobank, imaging, and finance-adjacent datasets, including HPC and dashboarding.
+:::
+:::
+
+## Latest updates {.section-tight}
+
+::: {.timeline .timeline-compact}
+::: {.timeline-item}
+::: {.timeline-date}
+May-Aug. 2026
+:::
+::: {.timeline-body}
+<span class="update-badge role">Role</span> **Quant Equity Intern, British Columbia Investment Management Corporation.** Current internship in quantitative equity research.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+2026
+:::
+::: {.timeline-body}
+<span class="update-badge paper">Paper</span> Co-authored work on low cardiac index, arterial hypotension, and acute kidney injury risk in cardiac surgery, published in *British Journal of Anaesthesia*.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+Aug. 2025
+:::
+::: {.timeline-body}
+<span class="update-badge talk">Talk</span> Presented invited-session work at JSM 2025 on Alzheimer's disease risk prediction from device-measured physical activity.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+Mar. 2025
+:::
+::: {.timeline-body}
+<span class="update-badge talk">Talk</span> Presented functional Cox model inference work at ENAR 2025.
+:::
+:::
+:::
+
+[View all updates](updates.qmd){.btn .btn-outline-primary}
+
+*Last updated: July 2026*

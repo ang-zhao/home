@@ -1,7 +1,11 @@
 project:
   type: website
   output-dir: docs
-  resources: resume_AngelaZhao_citadel_feb2026.pdf
+  resources:
+    - Angela_Zhao_Resume.pdf
+    - resume_AngelaZhao_citadel_feb2026.pdf
+    - resume_AngelaZhao_Jun1_2025.pdf
+    - assets/figures/
   
 website:
   title: "Angela Zhao"
@@ -12,11 +16,16 @@ website:
     search: true
     logo-href: index.qmd
     right:
-      - education.qmd
-      - publications.qmd
-      - work.qmd
-      - text: "Adaptive Trading Dashboard"
-        href: https://adaptive-trading.streamlit.app/
+      - text: "Education"
+        href: education.qmd
+      - text: "Updates"
+        href: updates.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Research & Projects"
+        href: projects.qmd
+      - text: "Work"
+        href: work.qmd
       - text: "Google Scholar"
         href: https://scholar.google.com/citations?hl=en&user=Vc9Pn4YAAAAJ
       - icon: github

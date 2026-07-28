@@ -3,13 +3,13 @@ title: "Work Experience"
 editor: source
 ---
 
-\comment{TODO: make personal projects tab.
-Caffo: Firehouse, EP test
-Crainiceanu: cardiac surgery, fcox testing, mpog drug, digital twin}
+## Quant & Finance
 
-## Research Positions
+**British Columbia Investment Management Corporation** \| *Quant Equity Intern* \| May 2026 - Aug. 2026
 
-**Currently working on a tool to forecast call volume in collaboration with the Owings Mills Volunteer Firehouse to address staffing demands.**
+-   Current internship in quantitative equity research.
+
+-   Public details intentionally kept brief while the role is active.
 
 **Emerald Advisors, LLC \|** *Life Sciences Research Analyst Intern* \| May 2024 - Aug. 2024
 
@@ -20,6 +20,8 @@ Crainiceanu: cardiac surgery, fcox testing, mpog drug, digital twin}
 -   Contributed to the BUY decision on a stock that went up 50+% and made a positive 8bps impact to the portfolio.
 
 -   Conducted due diligence for an IPO, including constructing comps tables and reviewing SEC-1 filings.
+
+## Research
 
 **Johns Hopkins University, Wearable and Implantable Technology Group** \| *Research Associate for Dr. Ciprian Crainiceanu* \| Sep. 2022 - Present
 
@@ -47,13 +49,7 @@ Crainiceanu: cardiac surgery, fcox testing, mpog drug, digital twin}
 
 -   Contributed to single-cell analysis software for super-resolution image data that lead to 8+ talks, posters, and abstracts.
 
-## Editorial Activities – Peer Reviewer
-
-*Journal of Neurology (1)*
-
-*Biostatistics and Epidemiology (2)*
-
-## Teaching Positions
+## Teaching
 
 **Johns Hopkins University**
 
@@ -77,7 +73,13 @@ TEAM Mentor \| General Chemistry 1 \| Tutorials and Office Hours \~200 students 
 
 Grader \| Introduction to Biophysics, ∼150 students \| 2020
 
-## Leadership Positions
+## Leadership / Service
+
+**Peer reviewer**
+
+*Journal of Neurology (1)*
+
+*Biostatistics and Epidemiology (2)*
 
 **Johns Hopkins University**
 
@@ -94,9 +96,3 @@ Biostatistics Students Organization \| *Curriculum Committee Representative* \| 
 *President* \| McGill Integrative Biosciences Society \| 2021-2022
 
 *VP Events* \| McGill Integrative Biosciences Society \| 2020-2021
-
-\comment{## Miscellaneous Positions}
-
-}
-
-}

@@ -1,5 +1,8 @@
 /.quarto/
 .Rproj.user
+.DS_Store
 .DS_store
+.Rhistory
 .RHistory
-README.md
+_site/
+/README.md
