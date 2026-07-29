@@ -144,6 +144,7 @@ h1,h2,h3,h4,h5,h6 { font-weight: 700; }
 .update-badge.talk { background: #7c3aed; }
 .update-badge.project { background: #b45309; }
 .update-badge.award { background: #be123c; }
+.update-badge.education { background: #475569; }
 
 @media (max-width: 991px) {
   .focus-grid,

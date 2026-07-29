@@ -118,10 +118,19 @@ Mar. 2025
 
 ::: {.timeline-item}
 ::: {.timeline-date}
-2024-2026
+2024
 :::
 ::: {.timeline-body}
-<span class="update-badge role">Role</span> Completed the ScM in Biostatistics in May 2024 and continued into the PhD in Biostatistics at Johns Hopkins University.
+<span class="update-badge education">Education</span> Started a new PhD in Biostatistics at Johns Hopkins University after completing the ScM.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+May 2024
+:::
+::: {.timeline-body}
+<span class="update-badge education">Education</span> Completed the ScM in Biostatistics at Johns Hopkins University.
 :::
 :::
 
@@ -175,7 +184,7 @@ May-Aug. 2024
 Sep. 2022
 :::
 ::: {.timeline-body}
-<span class="update-badge role">Role</span> Started the ScM in Biostatistics and graduate research at Johns Hopkins University.
+<span class="update-badge education">Education</span> Started the ScM in Biostatistics at Johns Hopkins University.
 :::
 :::
 
