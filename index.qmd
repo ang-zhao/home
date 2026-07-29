@@ -51,10 +51,28 @@ Her research and applied work focus on irregular, noisy streams: wearable sensor
 ::: {.timeline .timeline-compact}
 ::: {.timeline-item}
 ::: {.timeline-date}
+Nov. 2026
+:::
+::: {.timeline-body}
+<span class="update-badge talk">Talk</span> **Invited to speak at the GSA Editor's Choice Symposium.** Upcoming presentation for the *Journal of Gerontology, Series A: Medical Sciences* Editor's Choice Symposium at the Gerontological Society of America Annual Scientific Meeting.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
 May-Aug. 2026
 :::
 ::: {.timeline-body}
 <span class="update-badge role">Role</span> **Quant Equity Intern, British Columbia Investment Management Corporation.** Current internship in quantitative equity research.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+2026
+:::
+::: {.timeline-body}
+<span class="update-badge paper">Paper</span> Working draft: "Digital twins for blood pressure during cardiac surgery: Sky bridge functional autoencoders." Private draft; no public file linked.
 :::
 :::
 
@@ -72,16 +90,7 @@ May-Aug. 2026
 Aug. 2025
 :::
 ::: {.timeline-body}
-<span class="update-badge talk">Talk</span> Presented invited-session work at JSM 2025 on Alzheimer's disease risk prediction from device-measured physical activity.
-:::
-:::
-
-::: {.timeline-item}
-::: {.timeline-date}
-Mar. 2025
-:::
-::: {.timeline-body}
-<span class="update-badge talk">Talk</span> Presented functional Cox model inference work at ENAR 2025.
+<span class="update-badge talk">Talk</span> **Invited session at JSM 2025.** Presented work on Alzheimer's disease risk prediction from device-measured physical activity.
 :::
 :::
 :::

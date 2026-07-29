@@ -35,6 +35,16 @@ Inference procedures for extended functional Cox models that account for correla
 :::
 
 ::: {.project-card}
+### Digital twins for blood pressure during cardiac surgery
+
+![](assets/figures/digital-twins-blood-pressure.png){.project-figure fig-alt="Placeholder figure: digital twins for blood pressure during cardiac surgery"}
+
+Private working paper: "Digital twins for blood pressure during cardiac surgery: Sky bridge functional autoencoders." The draft should stay local/private; this page only records the project title and research direction.
+
+**Figure target:** `assets/figures/digital-twins-blood-pressure.png`
+:::
+
+::: {.project-card}
 ### Stochastic and neural models for fMRI dynamics
 
 ![](assets/figures/fmri-model-comparison.png){.project-figure fig-alt="Placeholder figure: fMRI model comparison"}

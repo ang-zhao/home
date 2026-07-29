@@ -30,9 +30,9 @@ title: "Publications"
 
 ## Presentations
 
-1. **Zhao A**, Cui E, Leroux A, Lindquist M, Crainiceanu C (November 2026). Objectively Measured Physical Activity Using Wrist-Worn Accelerometers. **Invited symposium presentation**, *Journal of Gerontology, Series A: Medical Sciences* Editor’s Choice Symposium: “From Pages to Paradigms,” Gerontological Society of America Annual Scientific Meeting, Baltimore, MD.
+1. **Zhao A**, Cui E, Leroux A, Lindquist M, Crainiceanu C (November 2026). Objectively Measured Physical Activity Using Wrist-Worn Accelerometers. **Invited symposium presentation**, *Journal of Gerontology, Series A: Medical Sciences* Editor's Choice Symposium: "From Pages to Paradigms," Gerontological Society of America Annual Scientific Meeting, Baltimore, MD.
 
-1.  **Zhao A**, Cui E, Leroux A, Lindquist M, Crainiceanu C (August 2025). Data-Driven Risk Prediction of Alzheimer’s Disease Using Device-Measured Physical Activity and Robust Variable Selection. Invited session for *Joint Statisical Meetings*, Nashville TN.
+1.  **Zhao A**, Cui E, Leroux A, Lindquist M, Crainiceanu C (August 2025). Data-Driven Risk Prediction of Alzheimer’s Disease Using Device-Measured Physical Activity and Robust Variable Selection. **Invited session presentation** for *Joint Statistical Meetings*, Nashville TN.
 
 2.  **Zhao A**, Cui E, Leroux A, Lindquist M, Crainiceanu C (March 2025). Inference for the Extended Functional Cox Model: A UK Biobank Case Study. Contributed session for *ENAR International Biometric Society*, New Orleans LA.
 
