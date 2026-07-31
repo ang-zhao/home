@@ -63,7 +63,7 @@ Nov. 2026
 May-Aug. 2026
 :::
 ::: {.timeline-body}
-<span class="update-badge role">Role</span> **Quant Equity Intern, British Columbia Investment Management Corporation.** Current internship in quantitative equity research.
+<span class="update-badge role">Role</span> **Quant Equity Intern, British Columbia Investment Management Corporation.** Current internship in quantitative equity research working on options strategies.
 :::
 :::
 
