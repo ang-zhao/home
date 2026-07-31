@@ -11,6 +11,16 @@ Selected research and applied projects around stochastic modeling, machine learn
 
 ::: {.project-grid}
 ::: {.project-card}
+### Digital twins for blood pressure during cardiac surgery
+
+![](assets/figures/digital-twins-blood-pressure.png){.project-figure fig-alt="Placeholder figure: digital twins for blood pressure during cardiac surgery"}
+
+Submitted manuscript: "Digital twins for blood pressure during cardiac surgery: Sky bridge functional autoencoders" (*JASA Case Studies*). The draft should stay local/private; this page only records the project title and research direction.
+
+**Figure target:** `assets/figures/digital-twins-blood-pressure.png`
+:::
+
+::: {.project-card}
 ### Wearable activity and neurodegenerative disease risk
 
 ![](assets/figures/wearable-risk-summary.png){.project-figure fig-alt="Placeholder figure: wearable risk summary"}
@@ -32,16 +42,6 @@ Inference procedures for extended functional Cox models that account for correla
 **Figure target:** `assets/figures/functional-cox-inference.png`
 
 [Publications](publications.qmd){.project-link}
-:::
-
-::: {.project-card}
-### Digital twins for blood pressure during cardiac surgery
-
-![](assets/figures/digital-twins-blood-pressure.png){.project-figure fig-alt="Placeholder figure: digital twins for blood pressure during cardiac surgery"}
-
-Private working paper: "Digital twins for blood pressure during cardiac surgery: Sky bridge functional autoencoders." The draft should stay local/private; this page only records the project title and research direction.
-
-**Figure target:** `assets/figures/digital-twins-blood-pressure.png`
 :::
 
 ::: {.project-card}

@@ -31,7 +31,7 @@ May-Aug. 2026
 2026
 :::
 ::: {.timeline-body}
-<span class="update-badge paper">Paper</span> Working draft: "Digital twins for blood pressure during cardiac surgery: Sky bridge functional autoencoders." Private draft; no public file linked.
+<span class="update-badge paper">Paper</span> Submitted "Digital twins for blood pressure during cardiac surgery: Sky bridge functional autoencoders" to *JASA Case Studies*. Private draft; no public file linked.
 :::
 :::
 
@@ -139,7 +139,7 @@ May 2024
 2025-2026
 :::
 ::: {.timeline-body}
-<span class="update-badge project">Service</span> Leadership and service at Johns Hopkins: Doctoral Student Council Biostatistics Representative; peer reviewer for *Journal of Neurology* and *Biostatistics and Epidemiology*.
+<span class="update-badge project">Service</span> Leadership and service at Johns Hopkins: Co-President of the Biostatistics Students Organization; Doctoral Student Council Biostatistics Representative; Department of Biostatistics Career Committee Member; peer reviewer for *Journal of Neurology* and *Biostatistics and Epidemiology*.
 :::
 :::
 

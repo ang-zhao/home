@@ -72,7 +72,7 @@ May-Aug. 2026
 2026
 :::
 ::: {.timeline-body}
-<span class="update-badge paper">Paper</span> Working draft: "Digital twins for blood pressure during cardiac surgery: Sky bridge functional autoencoders." Private draft; no public file linked.
+<span class="update-badge paper">Paper</span> Submitted "Digital twins for blood pressure during cardiac surgery: Sky bridge functional autoencoders" to *JASA Case Studies*. Private draft; no public file linked.
 :::
 :::
 
