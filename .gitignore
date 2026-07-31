@@ -6,6 +6,8 @@
 .RHistory
 _site/
 /README.md
+assets/figures/temp.png
+assets/figures/Screenshot*.png
 
 # Private working papers/drafts. Keep these local unless explicitly cleared.
 private/

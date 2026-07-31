@@ -5,7 +5,13 @@ project:
     - Angela_Zhao_Resume.pdf
     - resume_AngelaZhao_citadel_feb2026.pdf
     - resume_AngelaZhao_Jun1_2025.pdf
-    - assets/figures/
+    - assets/figures/adaptive-trading-dashboard.png
+    - assets/figures/digital-twins-blood-pressure.png
+    - assets/figures/evolutionary-llm-optimization.png
+    - assets/figures/firehouse-call-forecast.png
+    - assets/figures/fmri-model-comparison.png
+    - assets/figures/functional-cox-inference.png
+    - assets/figures/wearable-risk-summary.png
   
 website:
   title: "Angela Zhao"
