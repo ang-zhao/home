@@ -3,6 +3,10 @@ title: "Work Experience"
 editor: source
 ---
 
+::: {.quick-link-row}
+[<i class="bi bi-file-earmark-text"></i> Resume](resume_AngelaZhao.pdf){.btn .btn-dark}
+:::
+
 ## Industry
 
 **British Columbia Investment Management Corporation** \| *Quant Equity Intern* \| May 2026 - Aug. 2026
