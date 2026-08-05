@@ -60,7 +60,7 @@ Comparison of stochastic time-series models, RNNs, transformers, and autoregress
 
 Streamlit simulation dashboard for stress-testing CUSUM changepoint detectors, GARCH pre-whitening, rolling resets, and false-alarm trade-offs under Monte Carlo scenarios.
 
-[Open dashboard](https://adaptive-trading.streamlit.app/){.project-link}
+<!-- Dashboard link temporarily hidden while the Streamlit app is unavailable. -->
 :::
 
 ::: {.project-card}

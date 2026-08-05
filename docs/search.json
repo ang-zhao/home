@@ -74,7 +74,7 @@
     "href": "projects.html#applied-projects",
     "title": "Research & Projects",
     "section": "Applied Projects",
-    "text": "Applied Projects\n\n\nAdaptive Trading Dashboard\n\nStreamlit simulation dashboard for stress-testing CUSUM changepoint detectors, GARCH pre-whitening, rolling resets, and false-alarm trade-offs under Monte Carlo scenarios.\nOpen dashboard\n\n\nFirehouse call volume forecasting\n\nApplied forecasting project with the Owings Mills Volunteer Firehouse to estimate call volume probabilities and support staffing decisions. The project is a practical example of operational prediction under uncertainty.\n\n\nGeometry-aware evolutionary LLMs\n\nExploratory project investigating genetic algorithms that use LLMs as mutation operators for non-differentiable optimization tasks."
+    "text": "Applied Projects\n\n\nAdaptive Trading Dashboard\n\nStreamlit simulation dashboard for stress-testing CUSUM changepoint detectors, GARCH pre-whitening, rolling resets, and false-alarm trade-offs under Monte Carlo scenarios.\n\n\n\nFirehouse call volume forecasting\n\nApplied forecasting project with the Owings Mills Volunteer Firehouse to estimate call volume probabilities and support staffing decisions. The project is a practical example of operational prediction under uncertainty.\n\n\nGeometry-aware evolutionary LLMs\n\nExploratory project investigating genetic algorithms that use LLMs as mutation operators for non-differentiable optimization tasks."
   },
   {
     "objectID": "work.html",
@@ -123,7 +123,7 @@
     "href": "index.html#quick-links",
     "title": "Angela Zhao",
     "section": "Quick links",
-    "text": "Quick links\n\n Resume\n Research & Projects\n Updates\n Google Scholar\n GitHub\n LinkedIn\n Adaptive Trading Dashboard"
+    "text": "Quick links\n\n Resume\n Research & Projects\n Updates\n Google Scholar\n GitHub\n LinkedIn"
   },
   {
     "objectID": "index.html#current-focus",
