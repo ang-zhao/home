@@ -136,10 +136,19 @@ May 2024
 
 ::: {.timeline-item}
 ::: {.timeline-date}
+2026
+:::
+::: {.timeline-body}
+<span class="update-badge project">Service</span> Started as Co-President of the Biostatistics Students Organization at Johns Hopkins.
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
 2025-2026
 :::
 ::: {.timeline-body}
-<span class="update-badge project">Service</span> Leadership and service at Johns Hopkins: Co-President of the Biostatistics Students Organization; Doctoral Student Council Biostatistics Representative; Department of Biostatistics Career Committee Member; peer reviewer for *Journal of Neurology* and *Biostatistics and Epidemiology*.
+<span class="update-badge project">Service</span> Johns Hopkins service: Department of Biostatistics Career Committee Member, Doctoral Student Council Biostatistics Representative, and peer reviewer for *Journal of Neurology* and *Biostatistics and Epidemiology*.
 :::
 :::
 
