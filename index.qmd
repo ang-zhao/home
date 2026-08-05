@@ -15,7 +15,7 @@ Her research and applied work focus on irregular, noisy streams: wearable sensor
 ## Quick links {.mt-4}
 
 ::: {.quick-link-row}
-[<i class="bi bi-file-earmark-text"></i> Resume](Angela_Zhao_Resume.pdf){.btn .btn-dark}
+[<i class="bi bi-file-earmark-text"></i> Resume](resume_AngelaZhao.pdf){.btn .btn-dark}
 
 [<i class="bi bi-graph-up"></i> Research & Projects](projects.qmd){.btn .btn-outline-primary}
 

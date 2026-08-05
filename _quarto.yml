@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources:
-    - Angela_Zhao_Resume.pdf
+    - resume_AngelaZhao.pdf
     - resume_AngelaZhao_citadel_feb2026.pdf
     - resume_AngelaZhao_Jun1_2025.pdf
     - assets/figures/adaptive-trading-dashboard.png
