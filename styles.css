@@ -4,11 +4,33 @@ b, strong { font-weight: 900 !important; color: #212529; }
 h1,h2,h3,h4,h5,h6 { font-weight: 700; }
 
 .navbar-title {
+  font-size: 1.05rem;
   white-space: nowrap;
 }
 
 .navbar-nav .nav-link {
-  letter-spacing: 0.08em;
+  font-size: 0.78rem;
+  letter-spacing: 0.035em;
+  padding-left: 0.55rem !important;
+  padding-right: 0.55rem !important;
+}
+
+.navbar-nav .nav-item.compact .nav-link {
+  padding-left: 0.42rem !important;
+  padding-right: 0.42rem !important;
+}
+
+@media (min-width: 1200px) and (max-width: 1375px) {
+  .navbar-title {
+    font-size: 0.96rem;
+  }
+
+  .navbar-nav .nav-link {
+    font-size: 0.72rem;
+    letter-spacing: 0.02em;
+    padding-left: 0.38rem !important;
+    padding-right: 0.38rem !important;
+  }
 }
 
 .landing-copy,
