@@ -17,7 +17,7 @@ website:
   title: "Angela Zhao"
   site-url: "https://ang-zhao.github.io/home/"
   navbar:
-    collapse-below: xl
+    collapse-below: xxl
     collapse: true 
     search: true
     logo-href: index.qmd
